@@ -6,20 +6,36 @@ For full description, see the project schedule [on Piazza.][piazza]
 <i>Edit this file to make your report!</i>
 
 ### Team Members
-* github names and real names.
-* Teams of less than two members, or more than three members must get written permission from Mark in advance.
+* GitHub Name: Christopher-Ly       (Name: Christopher Ly)
+* GitHub Name: jkhorn               (Name: Jerra Khorn)
 
 ### A Team Name
-for the purpose of creating a github group
+* Blue Turtle Shell (Unofficial)
 
 ### Project Title
-10 words or fewer
+* Lone Wolf (Unofficial).
 
-### Project Concept
-can be basic, fluid. Details will be in the next assignment.
+### Project Basic Concept
+* We are planning to have our project be a maze like game.
+* The game will start out with a blank playing field ,(Initially the size of the field will be large), with your playable character and a few enemyies.
+* The objective will be to manuvure through the playing field and avoid collisions with any enemies on the field. 
+* We would like to be able to keep track of the total time you're playing a round of the game, in order to display your record. 
+* Also, as the game progresses and you reach certain times then we would like to add more enemies to the playing field, increase their speed, and create a maze on the field.
+* We are still deciding whether after a certain checkpoint (time) a destination will appear where you will complete the level and continue to the next one where the playing field will be smaller in size for increased difficulty. 
+* Inspiration from asteroids and pacman.
+* All of this is subject to change and as we continue to work more may be added or removed. 
 
 ### Libraries You Plan to Use 
-as a group
+* How to Design Programs Teachpack (HtDP) 
+  * Sub-Libraries from HtDP:
+    * draw.rkt
+    * images.rkt
+    * arrows.rkt (Maybe)
+    * world/universe.rkt
+    * gui.rkt
+* Drawing Toolkit Library (Maybe)
+* Some Sound Library (Maybe, Most Likely Not)
+* Planet Cute Library (Maybe)
 
 ### How to Do and Submit this assignment
 
